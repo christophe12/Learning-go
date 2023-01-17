@@ -4,4 +4,4 @@ This repo can be used as a guide while learning go. It has codes with comments o
 
 ## Authors
 
-* **Christophe Mutabazi** - [Personalwebsite](http://orbit.surge.sh/)
+* **Christophe Mutabazi**
